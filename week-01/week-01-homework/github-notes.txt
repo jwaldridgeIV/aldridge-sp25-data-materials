@@ -1,1 +1,2 @@
-
+One question I have about the github workflow is that I was wondering if it is easier to work on the github website and then save changes to my computer, or the other way around where I work on my computer and send the update to the website?
+Also my favorite term is fetch, like I am a dog in training.
