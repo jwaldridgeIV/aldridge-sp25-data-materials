@@ -1,0 +1,11 @@
+Name,State,Department,Type,People,Latitude,Longitude,Pop_Bucket,Marker_Size
+Canton,SD,Judicial,Commissioner,1,43.3008146,-96.59282,Low Employees,5
+North Platte,NE,Judicial,Commissioner,1,41.1402759,-100.760145,Low Employees,5
+San Francisco,CA,Department of the Interior,Surveyors General,19,37.7749295,-122.419416,High Employees,15
+Iola,KS,Treasury Department,Internal Revenue_Storekeepers,1,37.9244799,-95.399981,Low Employees,5
+Provo,UT,Judicial,Court,2,40.2338438,-111.658534,Low Employees,5
+Vancouver,WA,Judicial,Commissioner,1,45.6387281,-122.661486,Low Employees,5
+Fort Hartsnuff,NE,War Department,Outpost,40,41.72333333,-99.02333333,High Employees,15
+Santa Fe,NM,Department of the Interior,Governors and Secretaries of the Territories,2,35.6869752,-105.937799,Low Employees,5
+Houston,TX,Judicial,Commissioner,1,29.7604267,-95.369803,Low Employees,5
+Red Cloud Agency,NE,Department of the Interior,Office of Indian Affairs,6,42.66969,-103.43548,Medium Employees,10
